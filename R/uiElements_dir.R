@@ -1,7 +1,8 @@
 #'dirPanel
 #'@export
 #'@rdname dir_panel
-dir_setter_panel <<- tabPanel("Select Working Directory",
+dir_setter_panel <- function(){
+  tabPanel("Select Working Directory",
            tags$br(),
      fluidRow(column(10, offset = 1,
                      tags$b(tags$h3("Welcome to our app!")),
@@ -92,3 +93,4 @@ dir_setter_panel <<- tabPanel("Select Working Directory",
 
   )
 
+}
