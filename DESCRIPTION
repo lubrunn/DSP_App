@@ -62,6 +62,7 @@ Imports:
     rintrojs,
     cicerone ,	
     devtools,
-    tibble (>= 3.1.0)
+    tibble (>= 3.1.0),
+    waiter
 Remotes:  
     lchiffon/wordcloud2
