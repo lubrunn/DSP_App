@@ -42,7 +42,7 @@ fluidPage(
   navbarPage("DSP",
 
              ##### directory tab
-             dir_setter_panel(),
+             dir_setter_panel,
              ##### twitter
              twitter_main_panel(),
               ##### comparison tab

@@ -40,5 +40,6 @@
 #' @import xgboost
 #' @import rintrojs
 #' @import cicerone
+#' @import waiter
 NULL
 
