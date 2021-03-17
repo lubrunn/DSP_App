@@ -7,6 +7,7 @@
 \alias{selectize_corona_granger}
 \alias{selectize_corona_regression}
 \alias{selectize_corona_var}
+\alias{selectize_corona_xgb}
 \alias{create_hover_info_corona}
 \title{Stock Calculations}
 \usage{
@@ -21,6 +22,8 @@ selectize_corona_granger()
 selectize_corona_regression()
 
 selectize_corona_var()
+
+selectize_corona_xgb()
 
 create_hover_info_corona(hovercorona, coronadata, selectedmeasure)
 }

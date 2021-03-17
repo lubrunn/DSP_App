@@ -8,14 +8,13 @@
 \alias{sliderinput_dates_corona}
 \alias{plot_corona}
 \alias{hover_info_corona}
+\alias{parameter_tabs_gra}
+\alias{tabs_custom_gra}
 \alias{selectize_Stocks_reg}
-\alias{parameter_tabsi}
 \alias{parameter_tabs}
 \alias{tabs_custom}
-\alias{parameter_tabsi_var}
 \alias{parameter_tabs_var}
 \alias{tabs_custom_var}
-\alias{parameter_tabsi_xgb}
 \alias{parameter_tabs_xgb}
 \alias{tabs_custom_xgb}
 \alias{numeric_features}
@@ -35,21 +34,19 @@ plot_corona()
 
 hover_info_corona()
 
-selectize_Stocks_reg()
+parameter_tabs_gra()
 
-parameter_tabsi()
+tabs_custom_gra()
+
+selectize_Stocks_reg()
 
 parameter_tabs()
 
 tabs_custom()
 
-parameter_tabsi_var()
-
 parameter_tabs_var()
 
 tabs_custom_var()
-
-parameter_tabsi_xgb()
 
 parameter_tabs_xgb()
 
